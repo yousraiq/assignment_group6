@@ -1,4 +1,12 @@
 # BUSINESS PERFORMANCE ANALYSIS
+## Overview
+
+This is a git group assignment been done by Group 6 of the CDE Bootcamp in Sept 2024.
+
+The name of the group members are:
+- Akinbuwa Oluwadare
+- Ayesha Younus
+- Okwu Ogechukwu Sylvia
 
 ## INTRODUCTION
 The primary challenge for some business is to gain a comprehensive understanding of sales performance. This helps the business make decisions and grow.  
@@ -37,3 +45,6 @@ Direct sales generated $40.26M, which is by far the largest channel while Digita
 - The company should continue fostering relationships with EOG Resources, Mosaic, and IBM. 
 - Reduce dependence on direct sales by exploring and expanding digital channels, which are currently underperforming but have significant potential.
 - Analyze high-performing periods to replicate successful strategies. Investigate reasons behind periodic revenue dips and address any internal or external factors affecting growth
+
+# Delivarables
+The deliverable for this project is a powerpoint presentation which can be found on this Repo.
